@@ -6,8 +6,8 @@ import os
 
 # ================= 配置区域 =================
 # 1. 飞书应用凭证（请确认已替换为你自己的）
-APP_ID = "FEISHU_APP_ID"
-APP_SECRET = "FEISHU_APP_SECRET"
+APP_ID = "cli_"
+APP_SECRET = "kn"
 
 # 2. Dify API 配置
 DIFY_API_URL = "https://api.dify.ai/v1/chat-messages"
