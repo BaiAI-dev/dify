@@ -6,7 +6,7 @@ import os
 
 # ================= 配置区域 =================
 # 1. 飞书应用凭证（请确认已替换为你自己的）
-APP_ID = "cli_"
+APP_ID = "cli"
 APP_SECRET = "kn"
 
 # 2. Dify API 配置
