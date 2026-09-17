@@ -6,8 +6,8 @@ import os
 
 # ================= 配置区域 =================
 # 1. 飞书应用凭证（请确认已替换为你自己的）
-APP_ID = "cli"
-APP_SECRET = "kn"
+APP_ID = "sakdj"
+APP_SECRET = "knfasd"
 
 # 2. Dify API 配置
 DIFY_API_URL = "https://api.dify.ai/v1/chat-messages"
