@@ -1,9 +1,9 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="韶音智能客服", page_icon="🎧", layout="wide")
+st.set_page_config(page_title="耳机智能客服", page_icon="🎧", layout="wide")
 st.title("🎧 韶音智能客服 Agent 演示")
-st.write("基于 Dify 知识库与 DeepSeek V4 模型，实时回答韶音产品问题。")
+st.write("基于 Dify 知识库与 DeepSeek V4 模型，实时回答产品问题。")
 
 user_input = st.text_input("请输入您的问题（例如：OpenComm2怎么开机？）：", "OpenComm2怎么开机？")
 
